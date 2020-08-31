@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 JUL 2020 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JUL 2020 11:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,16 +910,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 Package epstopdf Info: Source file: <Figures/OrthogonalGridFV.eps>
-(epstopdf)                    date: 2020-07-09 15:08:17
+(epstopdf)                    date: 2020-07-20 15:23:19
 (epstopdf)                    size: 225806 bytes
 (epstopdf)             Output file: <Figures/OrthogonalGridFV-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2020-07-09 15:09:13
+(epstopdf)                    date: 2020-07-15 09:45:01
 (epstopdf)                    size: 7430 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/OrthogonalGridFV-e
 ps-converted-to.pdf Figures/OrthogonalGridFV.eps>
 (epstopdf)             \includegraphics on input line 246.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figures/OrthogonalGridFV-eps-converted-to.pdf Fig
+ures/OrthogonalGridFV.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/OrthogonalGridFV-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2020-07-28 11:07:35
+(epstopdf)                    size: 7430 bytes.
 <Figures/OrthogonalGridFV-eps-converted-to.pdf, id=31, 150.5625pt x 100.375pt>
 File: Figures/OrthogonalGridFV-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/OrthogonalGridFV-eps-converted-to.pdf>
@@ -942,16 +948,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [6]
 Package epstopdf Info: Source file: <Figures/FaceAverages.eps>
-(epstopdf)                    date: 2020-07-08 11:00:21
+(epstopdf)                    date: 2020-07-20 15:23:19
 (epstopdf)                    size: 307909 bytes
 (epstopdf)             Output file: <Figures/FaceAverages-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2020-07-08 11:00:26
+(epstopdf)                    date: 2020-07-15 09:45:01
 (epstopdf)                    size: 9285 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/FaceAverages-eps-c
 onverted-to.pdf Figures/FaceAverages.eps>
 (epstopdf)             \includegraphics on input line 313.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figures/FaceAverages-eps-converted-to.pdf Figures
+/FaceAverages.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/FaceAverages-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2020-07-28 11:07:35
+(epstopdf)                    size: 9285 bytes.
 <Figures/FaceAverages-eps-converted-to.pdf, id=57, 241.90375pt x 195.73125pt>
 File: Figures/FaceAverages-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/FaceAverages-eps-converted-to.pdf>
@@ -967,16 +979,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [7 <./Figures/FaceAverages-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/FaceAveragesSkewed.eps>
-(epstopdf)                    date: 2020-05-27 21:31:44
+(epstopdf)                    date: 2020-07-20 15:23:19
 (epstopdf)                    size: 403174 bytes
 (epstopdf)             Output file: <Figures/FaceAveragesSkewed-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2020-07-08 11:02:53
+(epstopdf)                    date: 2020-07-15 09:45:01
 (epstopdf)                    size: 12023 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/FaceAveragesSkewed
 -eps-converted-to.pdf Figures/FaceAveragesSkewed.eps>
 (epstopdf)             \includegraphics on input line 381.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figures/FaceAveragesSkewed-eps-converted-to.pdf F
+igures/FaceAveragesSkewed.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/FaceAveragesSkewed-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2020-07-28 11:07:35
+(epstopdf)                    size: 12023 bytes.
 <Figures/FaceAveragesSkewed-eps-converted-to.pdf, id=75, 365.365pt x 173.64874p
 t>
 File: Figures/FaceAveragesSkewed-eps-converted-to.pdf Graphic file (type pdf)
@@ -1052,16 +1070,22 @@ File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 630.
 Package epstopdf Info: Source file: <Figures/DiscretizationBaseBlockFV.eps>
-(epstopdf)                    date: 2020-07-08 13:21:15
+(epstopdf)                    date: 2020-07-20 15:23:19
 (epstopdf)                    size: 353620 bytes
 (epstopdf)             Output file: <Figures/DiscretizationBaseBlockFV-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2020-07-08 13:25:32
+(epstopdf)                    date: 2020-07-15 09:45:01
 (epstopdf)                    size: 9518 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/DiscretizationBase
 BlockFV-eps-converted-to.pdf Figures/DiscretizationBaseBlockFV.eps>
 (epstopdf)             \includegraphics on input line 641.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figures/DiscretizationBaseBlockFV-eps-converted-t
+o.pdf Figures/DiscretizationBaseBlockFV.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/DiscretizationBaseBlockFV-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2020-07-28 11:07:36
+(epstopdf)                    size: 9518 bytes.
 <Figures/DiscretizationBaseBlockFV-eps-converted-to.pdf, id=113, 450.68375pt x 
 145.54375pt>
 File: Figures/DiscretizationBaseBlockFV-eps-converted-to.pdf Graphic file (type
@@ -1072,16 +1096,23 @@ Package pdftex.def Info: Figures/DiscretizationBaseBlockFV-eps-converted-to.pdf
 (pdftex.def)             Requested size: 455.2979pt x 147.04242pt.
 Package epstopdf Info: Source file: <Figures/DiscretizationComponentBlockFV.eps
 >
-(epstopdf)                    date: 2020-07-08 13:40:22
+(epstopdf)                    date: 2020-07-20 15:23:19
 (epstopdf)                    size: 556893 bytes
 (epstopdf)             Output file: <Figures/DiscretizationComponentBlockFV-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2020-07-08 13:48:37
+(epstopdf)                    date: 2020-07-15 09:45:01
 (epstopdf)                    size: 17661 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/DiscretizationComp
 onentBlockFV-eps-converted-to.pdf Figures/DiscretizationComponentBlockFV.eps>
 (epstopdf)             \includegraphics on input line 651.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figures/DiscretizationComponentBlockFV-eps-conver
+ted-to.pdf Figures/DiscretizationComponentBlockFV.eps)...executed safely (allow
+ed).
+
+Package epstopdf Info: Result file: <Figures/DiscretizationComponentBlockFV-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2020-07-28 11:07:36
+(epstopdf)                    size: 17661 bytes.
 <Figures/DiscretizationComponentBlockFV-eps-converted-to.pdf, id=114, 467.7475p
 t x 297.11pt>
 File: Figures/DiscretizationComponentBlockFV-eps-converted-to.pdf Graphic file 
@@ -1158,16 +1189,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [19]
 Package epstopdf Info: Source file: <Figures/DiscretizationBaseBlockCFEM.eps>
-(epstopdf)                    date: 2020-07-10 15:58:57
+(epstopdf)                    date: 2020-07-20 15:23:19
 (epstopdf)                    size: 283530 bytes
 (epstopdf)             Output file: <Figures/DiscretizationBaseBlockCFEM-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2020-07-10 15:58:59
+(epstopdf)                    date: 2020-07-15 09:45:01
 (epstopdf)                    size: 7425 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/DiscretizationBase
 BlockCFEM-eps-converted-to.pdf Figures/DiscretizationBaseBlockCFEM.eps>
 (epstopdf)             \includegraphics on input line 1001.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figures/DiscretizationBaseBlockCFEM-eps-converted
+-to.pdf Figures/DiscretizationBaseBlockCFEM.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/DiscretizationBaseBlockCFEM-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2020-07-28 11:07:37
+(epstopdf)                    size: 7425 bytes.
 <Figures/DiscretizationBaseBlockCFEM-eps-converted-to.pdf, id=179, 249.93375pt 
 x 163.61125pt>
 File: Figures/DiscretizationBaseBlockCFEM-eps-converted-to.pdf Graphic file (ty
@@ -1199,17 +1236,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [20 <./Figures/DiscretizationBaseBlockCFEM-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/DiscretizationBaseBlockCFEMStages.
 eps>
-(epstopdf)                    date: 2020-07-10 16:04:30
+(epstopdf)                    date: 2020-07-20 15:23:19
 (epstopdf)                    size: 522179 bytes
 (epstopdf)             Output file: <Figures/DiscretizationBaseBlockCFEMStages-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2020-07-10 16:04:32
+(epstopdf)                    date: 2020-07-15 09:45:01
 (epstopdf)                    size: 12378 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/DiscretizationBase
 BlockCFEMStages-eps-converted-to.pdf Figures/DiscretizationBaseBlockCFEMStages.
 eps>
 (epstopdf)             \includegraphics on input line 1029.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figures/DiscretizationBaseBlockCFEMStages-eps-con
+verted-to.pdf Figures/DiscretizationBaseBlockCFEMStages.eps)...executed safely 
+(allowed).
+
+Package epstopdf Info: Result file: <Figures/DiscretizationBaseBlockCFEMStages-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-28 11:07:37
+(epstopdf)                    size: 12378 bytes.
 <Figures/DiscretizationBaseBlockCFEMStages-eps-converted-to.pdf, id=191, 478.78
 876pt x 286.06876pt>
 File: Figures/DiscretizationBaseBlockCFEMStages-eps-converted-to.pdf Graphic fi
@@ -1234,17 +1278,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [21 <./Figures/DiscretizationBaseBlockCFEMStages-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/DiscretizationComponentBlockCFEM.e
 ps>
-(epstopdf)                    date: 2020-07-10 16:35:05
+(epstopdf)                    date: 2020-07-20 15:23:19
 (epstopdf)                    size: 567343 bytes
 (epstopdf)             Output file: <Figures/DiscretizationComponentBlockCFEM-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2020-07-10 16:36:48
+(epstopdf)                    date: 2020-07-15 09:45:01
 (epstopdf)                    size: 18041 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/DiscretizationComp
 onentBlockCFEM-eps-converted-to.pdf Figures/DiscretizationComponentBlockCFEM.ep
 s>
 (epstopdf)             \includegraphics on input line 1048.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figures/DiscretizationComponentBlockCFEM-eps-conv
+erted-to.pdf Figures/DiscretizationComponentBlockCFEM.eps)...executed safely (a
+llowed).
+
+Package epstopdf Info: Result file: <Figures/DiscretizationComponentBlockCFEM-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-28 11:07:38
+(epstopdf)                    size: 18041 bytes.
 <Figures/DiscretizationComponentBlockCFEM-eps-converted-to.pdf, id=203, 479.792
 5pt x 286.06876pt>
 File: Figures/DiscretizationComponentBlockCFEM-eps-converted-to.pdf Graphic fil
@@ -1415,7 +1466,7 @@ onts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fo
 nts/type1/public/amsfonts/latxfont/line10.pfb></usr/local/texlive/2018/texmf-di
 st/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2018/texm
 f-dist/fonts/type1/public/stmaryrd/stmary10.pfb>
-Output written on DiffusionSolver.pdf (34 pages, 437304 bytes).
+Output written on DiffusionSolver.pdf (34 pages, 437261 bytes).
 PDF statistics:
  332 PDF objects out of 1000 (max. 8388607)
  242 compressed objects within 3 object streams
